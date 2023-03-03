@@ -100,6 +100,3 @@ const inicioJuego = () => {
 inicioJuego();
 // inicioJuego() -> esta función agrega un evento al hacer clic en los elementos
 //con los ids piedra papel y tijera. 
-
-
-
